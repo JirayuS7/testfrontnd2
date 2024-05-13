@@ -1,0 +1,13 @@
+{
+    "Index": {
+      "title": "Welcome to   Management System App" , 
+      "titleApp1"  : "Option Sharp Motion" ,
+      "titleApp2"  : "Option   Create Form" 
+    } ,
+    "Form": {
+      "title": "Create New Employee"
+    } ,
+    "Sharp" : {
+      "title": "Sharp Motion"
+    }
+  }
